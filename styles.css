@@ -1,0 +1,9 @@
+html, body {
+  margin:0;
+  text-align: center;
+  font-family: 'montserrat', 'sans-serif';
+}
+
+.main-animate-opacity {
+  animation: opac 1.5s
+}@keyframes opac { from { opacity: 0 } to { opacity: 1 } }
