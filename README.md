@@ -6,3 +6,6 @@ The idea was to make it looks like an actual real life piece of paper resume tha
 The margins might be off from a standard printed paper, but I think guess it's okay.
 
 fontawesome icons are used, they seem to fit well.
+
+
+![alt text](https://raw.githubusercontent.com/necr0mancer/rescv/master/Screenshot.png "Full Page Screenshot")
