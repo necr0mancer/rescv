@@ -4,7 +4,7 @@ This initially started as me just converting my resume into a webpage so it's al
 It's simple html/css so nothing complex at all.
 
 The idea was to make it looks like an actual real life piece of paper resume that you'd see on a desk. :)
-The margins might be off from a standard printed paper, but I think guess it's okay.
+The margins might be off from a standard printed paper, but I guess it's okay.
 
 fontawesome icons are used, they seem to fit well.
 
